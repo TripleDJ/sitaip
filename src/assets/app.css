@@ -1,12 +1,12 @@
 /* Imported styled */
 
-@import 'defaults/default.css';
-@import 'defaults/animation.css';
-@import 'defaults/magnific_popup.css';
-@import 'defaults/custom.css';
-@import 'defaults/flexslider.css';
-@import 'defaults/tooltipster.css';
-@import 'defaults/screen.css';
+@import 'css/defaults/default.css';
+@import 'css/defaults/animation.css';
+@import 'css/defaults/magnific_popup.css';
+@import 'css/defaults/custom.css';
+@import 'css/defaults/flexslider.css';
+@import 'css/defaults/tooltipster.css';
+@import 'css/defaults/screen.css';
 
 /* Imported fonts */
 
