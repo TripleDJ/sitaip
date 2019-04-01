@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Home extends Component {
   render() {
     return (
-      <div className="container-fluid">
+      <div className="home blog">
 
       	<h1>
       		Home page conent

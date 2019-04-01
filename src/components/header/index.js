@@ -1,23 +1,15 @@
 import React, { Component } from 'react';
+import SocialLinks from './nav/social'
 
 class Header extends Component {
   render() {
     return (
-      <header>
-
-      	<div className="logo">
-      		LOGO
-      	</div>
-
-      	<nav>
-      		<ul>
-      			<li className="first"> <a href="#">Home</a> </li>
-      			<li> <a href="#">Products</a> </li>
-      			<li className="last"> <a href="#">Contacts</a> </li>
-      		</ul>
-      	</nav>
-
-      </header>
+      <div class="top_bar">
+      
+        <div id="logo_wrapper">
+          <SocialLinks />
+        </div>
+      </div> 
     );
   }
 }

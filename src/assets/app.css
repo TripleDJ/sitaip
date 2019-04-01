@@ -1,0 +1,16 @@
+/* Imported styled */
+
+@import 'defaults/default.css';
+@import 'defaults/animation.css';
+@import 'defaults/magnific_popup.css';
+@import 'defaults/custom.css';
+@import 'defaults/flexslider.css';
+@import 'defaults/tooltipster.css';
+@import 'defaults/screen.css';
+
+/* Imported fonts */
+
+@import 'fonts/latin_ext.css';
+@import 'fonts/font_awesome/css/font-awesome.min.css';
+
+
